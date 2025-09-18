@@ -1,0 +1,140 @@
+@media(max-width:600px)
+{
+    .main{
+        width: 100vw;
+        height:95vh;
+    }
+    .nav{
+        display: flex;
+        height: 7%;
+        width: 100vw;
+        background-color:rgb(4, 4, 45);
+        gap: 2%;
+        padding: 2%;
+        font-size: 10px;
+    }
+    img{
+        width: 15%;
+        height: 40%;
+        overflow: hidden;
+        margin-bottom: 2%;
+    }
+    .searchbar{
+        height: 40%;
+        width: 40%;
+        border: none;
+    }
+    .mainbody{
+        height: 35%;
+        width: 100vw;
+        background-color: rgb(4, 4, 45);
+    }
+    .mainbody1{
+        height: 15%;
+        width: 60%;
+      font-size: 100%;
+      word-spacing: 3px;
+      font-weight: 600;
+      color: rgb(239, 238, 237);
+      margin-top: 0%;
+      padding-top: 5%;
+      margin-left: 25%;
+      /* background-color: aqua; */
+    }
+    .mainbody2{
+        height: 18%;
+        width: 60%;
+      font-size: 60%;
+      word-spacing: 3px;
+      font-weight: 600;
+      color: rgb(239, 238, 237);
+      padding: 1%;
+       
+      margin-top: 0%;
+      margin-left: 28%;
+      /* background-color: aqua; */
+    }
+    .mainbody3{
+        height: 15%;
+        width: 65%;
+        display: flex;
+        gap: 12%;
+      font-size: 120%;
+      word-spacing: 3px;
+      font-weight: 600;
+      color: rgb(239, 238, 237);
+      /* background-color: rgb(245, 239, 239); */ */
+      margin-top: 0 %;
+      margin-left: 27%;
+    
+    }
+    .apply{
+        height: 60%;
+        width: 130%;
+        border-radius: 5px;
+        border: none;
+        background-color: rgb(30, 117, 231);
+    }
+    .tourcam{
+        height: 60%;
+        width: 100%;
+        border-radius: 5px;
+        background-color: transparent;
+        color: aliceblue;
+        border: 2px solid white;
+    }
+    .footer{
+        width: 100vw;
+        height: 50vh;
+        background-color: aqua;
+    }
+    
+.feature{
+    font-size: 160%;
+    height:18%;
+    width: 10%;
+    color: black;
+    font-weight: 600;
+   padding: 5%;
+    margin-bottom: 1%;
+    margin-left: 26%;
+   
+}
+
+    .allright{
+        margin-left: 5%;
+       padding-top: 7%;
+       font-size: 100%;
+    }
+    .footmain{
+        width: 100vw;
+        height: 42vh;
+        display: flex;
+        gap: 5%;
+       /* background-color: rgb(47, 163, 41); */
+    }
+    .foot1{
+        height: 80%;
+        width: 25%;
+        background-color: rgb(244, 241, 237);
+        text-align: center;
+        margin-left: 8%;
+        margin-top: 2%;
+       
+    }
+    .foot2{
+        height: 80%;
+        width: 25%;
+        background-color: rgb(242, 239, 235);
+        text-align: center;
+        margin-top: 2%;
+    }
+    .foot3{
+        height: 80%;
+        width: 25%;
+        background-color: rgb(244, 241, 237);
+        text-align: center;
+        margin-top: 2%;
+    }
+    
+}
